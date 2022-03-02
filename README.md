@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alexvsav
-- 👀 I’m interested in crazy ideas that we will remember when we get old 
 - 🌱 I’m currently learning Javascript, Python and Portuguese
-- 💞️ I’m looking to collaborate on ideas to share my company's project to the dev community
-- 📫 How to reach me: ping me on twitter @manialgie 
+- 💞️ I’m looking to collaborate on content to help accelerating developers in their work
+- 📫 How to reach me: ping me on twitter @alex_encode 
 
 <!---
 alexvsav/alexvsav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
